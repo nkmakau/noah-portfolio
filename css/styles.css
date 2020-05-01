@@ -20,3 +20,7 @@
   color: white;
   margin-left: 5px;
 }
+#about{
+  text-decoration-style: double;
+  text-align: justify;
+}
