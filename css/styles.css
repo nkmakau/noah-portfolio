@@ -1,0 +1,22 @@
+.header{
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+}
+#Portfolio{
+  color: red;
+  text-decoration-style: wavy;
+}
+#pic{
+  float: right;
+  padding: 1px;
+  border-radius: 2px
+}
+.h2{
+  text-decoration: underline;
+}
+.about{
+  background-color: #cc0000;
+  color: white;
+  margin-left: 5px;
+}
