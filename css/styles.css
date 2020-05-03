@@ -35,3 +35,25 @@
     float: left;
     padding: 15px;
   }
+  #aboutw{
+    background-color: #65082f;
+    color: white;
+    margin-left: 5px;
+  }
+
+  #aboute{
+    background-color: #0c1629;
+    color: white;
+    margin-left: 5px;
+  }
+  #abouty{
+    background-color: #2e84d5;
+    color: white;
+    margin-left: 5px;
+  }
+
+  #aboutz{
+    background-color: #720022;
+    color: white;
+    margin-left: 5px;
+  }
