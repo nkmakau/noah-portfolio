@@ -12,6 +12,11 @@
   padding: 1px;
   border-radius: 2px
 }
+#pics{
+  float: left;
+  padding: 1px;
+  border-radius: 2px
+}
 .h2{
   text-decoration: underline;
   text-align: center;
