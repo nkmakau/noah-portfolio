@@ -1,5 +1,5 @@
 # Noah's Portfolio
-#### This is my portfolio assingment submitted to Moringa School, 04/05/2020
+#### This is my portfolio assignment submitted to Moringa School, 04/05/2020
 #### By **Noah Makau**
 ## Description
 I was tasked to use HTML and CSS to come up with a portfolio landing page using the knowledge I gained during the training.
